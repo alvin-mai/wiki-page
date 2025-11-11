@@ -1,0 +1,86 @@
+Date: Thu, 04 Nov 2025 12:00:00 +0000 (UTC)
+Message-ID: <template.document@example.com>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_999999_123456789.1234567890123"
+
+------=_Part_999999_123456789.1234567890123
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+    <title>Your Document Title</title>
+    <style>
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+        }
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+        body {
+            font-family: Arial, Helvetica, FreeSans, sans-serif;
+            font-size: 10pt;
+            line-height: 1.2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Your Document Title</h1>
+    <p>Navigation: APE > Your Category > Your Document Title</p>
+    <div class=3D"Section1">
+
+<h2>Introduction</h2>
+<p>Replace this with your content. You can add text, tables, lists, and images here.</p>
+
+<h2>Main Section</h2>
+<p>Add your content here.</p>
+
+<h3>Subsection</h3>
+<p>Add subsection content.</p>
+
+<h3>Example Table</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Data 1</td>
+            <td>Data 2</td>
+            <td>Data 3</td>
+        </tr>
+    </tbody>
+</table>
+
+<h3>Example List</h3>
+<ul>
+    <li>List item 1</li>
+    <li>List item 2</li>
+    <li>List item 3</li>
+</ul>
+
+<h2>Conclusion</h2>
+<p>Summary of the document.</p>
+
+    </div>
+</body>
+</html>
+
+------=_Part_999999_123456789.1234567890123--
