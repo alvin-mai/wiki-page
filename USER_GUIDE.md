@@ -301,7 +301,7 @@ Click to view full document
 #### Prerequisites
 
 Before uploading, ensure your document:
-- Is in `.doc` format (Microsoft Word 97-2003)
+- Is in `.doc` format (Microsoft Word 97-2003). It would be better to copied from `TEMPLATE.doc` and change the content accordingly.
 - Contains a "Navigation:" header (see [Document Preparation](#document-preparation))
 
 #### Upload Steps
